@@ -7,7 +7,6 @@ int nonrepeated (int x[],int n)
 		if(x[i]==x[i+1])
 		{
 			value--;
-			i++;
 		}
 	}
 	return value;
