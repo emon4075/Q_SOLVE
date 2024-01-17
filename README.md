@@ -5,6 +5,7 @@ ___
 + GitHub
 + Vim
 + NVim
++ GNU GDB Debugger
 ## Social Media: 
 [Facebook](https://www.facebook.com/abdullahal.emon.5070)
 <br>
